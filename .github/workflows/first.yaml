@@ -1,4 +1,4 @@
-name: First
+name: Second
 on: workflow_dispatch
 jobs:
   Explore-GitHub-Actions:
