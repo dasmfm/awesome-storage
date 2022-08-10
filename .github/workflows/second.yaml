@@ -1,0 +1,7 @@
+name: Second
+on: workflow_dispatch
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Second, shorter, deploy action."
